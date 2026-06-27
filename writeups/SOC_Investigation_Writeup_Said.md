@@ -117,6 +117,9 @@ Event 3: File created — InvestorPresentation2023.pptx
 > **Screenshot 2 — Splunk hasil query Robocopy (3 events)**
 > 
 > *Drag & drop screenshot kamu di sini*
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f1c11e0d-4da4-4a54-b867-7a491512fea8" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/29f711ca-6e7a-43cb-a630-3f006ecbc946" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ec12a66a-7e62-482c-85ed-fd402ac67043" />
 
 ---
 
