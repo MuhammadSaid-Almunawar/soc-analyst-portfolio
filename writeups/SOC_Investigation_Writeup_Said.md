@@ -95,9 +95,6 @@ Command Line   : "C:\Windows\system32\Robocopy.exe" . C:\Users\michael.ascot\dow
 Working Dir    : Z:\
 ```
 
-> **Screenshot 1 — Alert 1023 detail dari Alert Queue**
-> 
-> *Drag & drop screenshot kamu di sini*
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/871b1b02-34eb-49b2-abc4-cc1e5d817255" />
 
 ---
