@@ -196,9 +196,8 @@ Command Line   : "C:\Windows\system32\nslookup.exe" UEsDBBQAAAAIANigLlfVU3cDIgAA
 Working Dir    : C:\Users\michael.ascot\downloads\exfiltration\
 ```
 
-> **Screenshot 4 — Alert 1025 detail dari Alert Queue**
-> 
-> *Drag & drop screenshot kamu di sini*
+
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/7a58abef-5ae7-47e0-bafa-e425a8cafae2" />
 
 ---
 
