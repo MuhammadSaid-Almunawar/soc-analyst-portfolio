@@ -210,9 +210,8 @@ index=* "win-3450" "3728" | sort _time
 
 **Result:** 15 events — full attack chain terkonfirmasi.
 
-> **Screenshot 5 — Splunk hasil query PID 3728 (semua nslookup events dengan Base64)**
-> 
-> *Drag & drop screenshot kamu di sini*
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/3648e452-2b7a-49fe-b88b-4bac1f0500d2" />
+
 
 ---
 
