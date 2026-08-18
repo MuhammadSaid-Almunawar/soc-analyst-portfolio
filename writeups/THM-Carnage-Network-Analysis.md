@@ -27,8 +27,10 @@ Navigate to: `Statistics > Protocol Hierarchy`
 
 This shows which protocols generated the most traffic and helps identify what kind of activity occurred.
 
-![Protocol Hierarchy — Part 1](carnage_img02_protocol_hierarchy.png)
-![Protocol Hierarchy — Part 2](carnage_img03_protocol_hierarchy2.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/713fb5c4-def6-42f8-ac26-174d765525cf" />
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/74dc4ce6-e000-424a-b031-965b391a8c3f" />
+
 
 **Key observations:**
 - **TCP (98.5%)** dominates — most traffic is connection-based
