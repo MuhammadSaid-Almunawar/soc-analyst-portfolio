@@ -8,7 +8,7 @@
 | Target | Windows Server 2016 Datacenter (`EC2AMAZ-I8UHO76`) via RDP |
 | Alat | PowerShell, `net`, Event Viewer, Task Scheduler, `wf.msc`, File Explorer, Notepad |
 | Jumlah soal | 15 |
-| Versi lengkap | [Investigating_Windows_Writeup.docx](Investigating_Windows_Writeup.docx) |
+
 
 ## Ringkasan Eksekutif
 
